@@ -1,0 +1,65 @@
+Last updated: February 14, 2026
+
+This application (“WACommerce”) is a testing and demonstration product created for development and evaluation purposes. It is not intended for production or commercial use.
+
+1. Information We Collect
+
+The App may temporarily collect the following information:
+
+Basic account identifiers (e.g., username, email, user ID, or chat ID)
+
+Device or session metadata (IP address, timestamps, logs)
+
+Usage activity (actions performed within the app)
+
+Data you intentionally submit while testing features
+
+We do not intentionally collect sensitive personal information such as passwords for external services, banking details, or government IDs.
+
+2. How We Use Data
+
+Collected data is used only to:
+
+Operate and debug the application
+
+Test features and performance
+
+Prevent abuse and diagnose errors
+
+Improve functionality during development
+
+This data is never sold and never used for advertising.
+
+3. Data Storage
+
+Because this is a test environment:
+
+Data may be stored temporarily in logs or databases
+
+Data may be reset or deleted at any time without notice
+
+Backups may not be maintained
+
+Service reliability is not guaranteed
+
+Do not submit real personal or confidential information.
+
+4. Data Sharing
+
+We do not share your data with third parties except:
+
+Hosting providers required to run the infrastructure
+
+When required by law
+
+To investigate abuse or attacks against the service
+
+5. Data Retention
+
+Data is retained only as long as necessary for testing.
+We may periodically wipe all stored data.
+
+6. Security
+
+We implement reasonable safeguards for a development environment, but this is not a production-grade system.
+Use at your own risk.
